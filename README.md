@@ -1,5 +1,4 @@
 # SVG Path Multiplier
----
 
 ## Why?
 
